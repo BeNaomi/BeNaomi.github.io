@@ -1,46 +1,12 @@
- <!--:root {
+ :root {
       --bg: #f8f7f4;<!--#f8f7f4-->
       --text: #1f2933;
       --muted: #5f6c7b;
-      --accent: #314e52;
-      --accent-light: #e3eceb;
+      --accent: #3C6EAA;
+      --accent-light: #EDF5FD;
       --card: #ffffff;
       --border: #d8dee4;
     }
-    -->
-    <!--Academic blue -->
-    :root {
-  --bg: #F9FBFD;
-  --text: #243447;
-  --muted: #66788A;
-  --accent: #2F5D8C;
-  --accent-light: #EAF3FB;
-  --card: #FFFFFF;
-  --border: #D7E4F2;
-}
-
-    <--ivory and navy
-    :root {
-  --bg: #FCFBF8;
-  --text: #243447;
-  --muted: #6B7280;
-  --accent: #234B72;
-  --accent-light: #EEF4F9;
-  --card: #FFFFFF;
-  --border: #E3E8ED;
-}
--->
-<!--
-:root {
-  --bg: #FAFCFE;
-  --text: #2C3642;
-  --muted: #73808C;
-  --accent: #4F84C4;
-  --accent-light: #EDF5FD;
-  --card: transparent;
-  --border: #DCE7F2;
-}
--->
 
     * {
       box-sizing: border-box;
