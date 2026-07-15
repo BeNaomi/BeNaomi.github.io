@@ -1,4 +1,15 @@
+ <!--
  :root {
+      --bg: #f8f7f4;<!--#f8f7f4-->
+      --text: #1f2933;
+      --muted: #5f6c7b;
+      --accent: #314e52;
+      --accent-light: #e3eceb;
+      --card: #ffffff;
+      --border: #d8dee4;
+    }
+    -->
+  :root {
       --bg: #f8f7f4;<!--#f8f7f4-->
       --text: #1f2933;
       --muted: #5f6c7b;
@@ -33,7 +44,7 @@
     header {
       background: var(--card);
       border-bottom: 1px solid var(--border);
-      position: static;
+      position: sticky;
       top: 0;
       z-index: 10;
     }
